@@ -1,0 +1,8 @@
+Problem statement.
+
+Build a recommender system by using cosine simillarties score.
+
+
+http://localhost:8888/notebooks/Untitled66.ipynb?kernel_name=python3
+
+
