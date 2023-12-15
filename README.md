@@ -1,2 +1,2 @@
-# data-science-assignmen
+# data-science-assignment
 assignment of data science
